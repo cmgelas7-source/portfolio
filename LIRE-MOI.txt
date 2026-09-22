@@ -1,0 +1,1 @@
+Ouvrir index.html et conserver le dossier assets à côté.
